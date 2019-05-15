@@ -21,6 +21,3 @@ class TwitterMessage extends React.Component {
 }
 
 export default TwitterMessage;
-
-
-export default TwitterMessage;
